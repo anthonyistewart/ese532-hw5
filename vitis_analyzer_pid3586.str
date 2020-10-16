@@ -1238,3 +1238,5 @@ selectButton(RDIResource.GraphicalView_ZOOM_OUT, "Waveform Viewer_zoom_out"); //
 // HMemoryUtils.trashcanNow. Engine heap size: 5,606 MB. GUI used memory: 71 MB. Current time: 10/16/20, 3:55:01 PM UTC
 // TclEventType: WAVEFORM_UPDATE_WAVEFORM
 // WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1001 ms.
